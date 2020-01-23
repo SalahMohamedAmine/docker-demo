@@ -4,7 +4,6 @@
   "private": true,
   "scripts": {
     "start": "node index.js",
-    "test": "npm install inherits && mocha"
   },
   "engines": {
     "node": "^4.6.1"
